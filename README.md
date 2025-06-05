@@ -1,1 +1,1 @@
-# nikosardas.github.io redirects to portfolio page
+nikosardas.github.io redirects to portfolio page
